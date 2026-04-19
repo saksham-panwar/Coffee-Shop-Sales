@@ -202,7 +202,7 @@ Average Order per Person = SUM(Quantity) / Footfall
 
 ## 📷 Screenshots
 
-*(Add your dashboard screenshots here)*
+<img width="1845" height="842" alt="Dashboard" src="https://github.com/user-attachments/assets/32d05d36-0ee9-48ac-abf2-5358ebdcdc19" />
 
 ---
 
